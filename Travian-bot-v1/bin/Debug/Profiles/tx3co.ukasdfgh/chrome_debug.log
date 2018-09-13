@@ -1,0 +1,7 @@
+[7392:1916:0913/122317.752:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+[7392:6648:0913/122317.825:WARNING:discovery_network_list_win.cc(195)] Failed to open Wlan client handle: 1062
+[7392:1916:0913/122320.069:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://tx3.travian.co.uk/ (0)
+[7392:1916:0913/185602.313:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://tx3.travian.co.uk/dorf1.php (0)
+[7392:1916:0913/185611.229:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://ts19.travian.lt/ (0)
+[7392:1916:0913/185616.355:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[7392:1916:0913/185616.355:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
